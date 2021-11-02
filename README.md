@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @henryglazt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### __👋 Hey, I'm Henry.__ 
+16, pursuing full-stack TypeScript development.
 
-<!---
-henryglazt/henryglazt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<a href="https://discord.com/users/784002712987369484">
+  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
+
+- 🖥️ Frontend:
+  - React/Next.js
+  - styled-components (occasionally Tailwind)
+  - In the past: HTML/CSS/JS
+
+- 🛠 Backend:
+  - Node/Fastify
+  - Postgres + Prisma
+  - Redis
+  - Docker
+
+Learning Python for fun as well :)
+
+\
+[![Hits](https://hits.link/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
