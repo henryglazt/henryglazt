@@ -4,7 +4,7 @@
 ---
 
 <a href="https://discord.com/users/784002712987369484">
-  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/784002712987369484?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 - 🖥️ Frontend:
