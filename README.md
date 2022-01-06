@@ -1,5 +1,5 @@
 ### __👋 Hey, I'm Henry.__ 
-16, pursuing full-stack TypeScript development.
+Ou, pursuing full-stack TypeScript development.
 
 ---
 
